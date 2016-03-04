@@ -1,4 +1,8 @@
 <?php include "header.php" ?>
-  <h1>你好，世界！</h1>
+<body>
+  <div class="shangmian">
+    <h1 class="caiquan" >  </h1>
+  </div> 
+</body>
 <?php include "footer.php" ?>
 
