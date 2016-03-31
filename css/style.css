@@ -143,3 +143,37 @@ body{
    padding: 20px;
    margin: 10px;
 }
+.footer{
+   height: 200px;
+   background:#232f3d;
+   margin-top: 30px;
+}
+.footera{
+   width: 1140px;
+   margin: 0 auto;
+   padding-top: 40px;
+   margin-right: 10px;
+}
+.footera .col-md-4{
+  color: white;
+    width: 200px;
+  
+}
+dd a{
+  color: white; 
+  margin-right: 10px; 
+}
+dt a{
+  color: black;  
+}
+dl dt{
+   color: white;
+   margin-bottom: 10px;
+   margin-left: 10px;
+}
+.corner img{
+  width: 100px;
+    height: 100px;
+    padding: 4px;
+    background: white;  
+}
